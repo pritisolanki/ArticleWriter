@@ -7,7 +7,9 @@ This is a simple project to demostrate how to use chatGPt chat completion API to
 - Streamlit
 
 ## Setup
+Please export the OpenAI API key as an environment variable. 
 ```bash
+  export OPENAI_API_KEY="your-api-key"
   pip install -r requirements.txt
 ```
 ## Run
